@@ -1,0 +1,15 @@
+.comment {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+.small{
+    width: 100%;
+    height: 100%;
+}
+.link{
+    text-decoration: none;
+    box-shadow: none;
+    color: white;
+}

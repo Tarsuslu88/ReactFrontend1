@@ -1,0 +1,12 @@
+.postContainer {
+  border-width: 2px;
+  border-color: black;
+  border-style: solid;
+  color: blue;
+}
+
+.cardstil {
+  width: 800px;
+  text-align: left;
+  margin: 20px;
+}/*# sourceMappingURL=Post.css.map */
